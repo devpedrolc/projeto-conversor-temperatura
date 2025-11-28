@@ -1,0 +1,15 @@
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\bin\Debug\net10.0\ProjetoConversorTemperatura.exe
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\bin\Debug\net10.0\ProjetoConversorTemperatura.deps.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\bin\Debug\net10.0\ProjetoConversorTemperatura.runtimeconfig.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\bin\Debug\net10.0\ProjetoConversorTemperatura.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\bin\Debug\net10.0\ProjetoConversorTemperatura.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.AssemblyInfo.cs
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.sourcelink.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\refint\ProjetoConversorTemperatura.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ProjetoConversorTemperatura.genruntimeconfig.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\ProjetoConversorTemperatura\ProjetoConversorTemperatura\obj\Debug\net10.0\ref\ProjetoConversorTemperatura.dll
